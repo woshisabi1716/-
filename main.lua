@@ -1,6 +1,6 @@
 local function processfunction(functionname)
     if functionname == "FunctionNameHere" then -- read documentation to learn how to use functions
-        print("Your Code Here")
+        print("11451415926")
         return(true)
     end
 
@@ -9,7 +9,7 @@ local function processfunction(functionname)
 end -- Very end of all funcions, DO NOT DELETE
 local products = {
 
-    ["Game Name"] = {
+    ["俄亥俄州OHIO"] = {
 
         ["Name"] = "Game Name", --developer game name, user cant see
         ["IDs"] = {
