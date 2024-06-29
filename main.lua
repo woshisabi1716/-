@@ -1,5 +1,5 @@
 local function processfunction(functionname)
-    if functionname == "FunctionNameHere" then -- read documentation to learn how to use functions
+    if functionname == "OHIO定制脚本" then -- read documentation to learn how to use functions
         print("11451415926")
         return(true)
     end
